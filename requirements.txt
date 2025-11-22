@@ -1,0 +1,5 @@
+nltk
+streamlit        # if UI needed
+PyPDF2           # if working with PDF
+beautifulsoup4   # if URLs or scraping
+transformers     # if using advanced models (optional)
